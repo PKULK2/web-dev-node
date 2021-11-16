@@ -1,0 +1,16 @@
+[
+    {
+    "firstName": "Poornapragna",
+    "lastName": "Kulkarni",
+    "handle": "pkulkarni",
+    "profilePicture": "../../../images/profilepic.jpeg",
+    "bannerPicture": "../../../images/inspire1.jpeg",
+    "bio": "Software Engineer, AI, Space, and renewable enthusiast.",
+    "website": "youtube.com/webdevtv",
+    "location": "Boston, MA",
+    "dateOfBirth": "9/23/2000",
+    "dateJoined": "4/2012",
+    "followingCount": 312,
+    "followersCount": 180
+    }
+]
